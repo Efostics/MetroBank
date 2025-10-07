@@ -23,11 +23,7 @@ Step 1: Data Cleaning and Transformation
 Tools: Power Query (Excel)
 - Removed duplicates and ensured consistent data types (e.g., numeric for Revenue, Operating_Cost).
 - Added calculated columns:
-Profit = Revenue - Operating_Cost
-
-Revenue_per_Employee = Revenue / Staff_Count
-
-Cost_to_Revenue_Ratio = Operating_Cost / Revenue
+Profit = Revenue - Operating_Cost, Revenue_per_Employee = Revenue / Staff_Count, Cost_to_Revenue_Ratio = Operating_Cost / Revenue
 
 Step 2: Analysis and Dashboard Creation
 
@@ -35,3 +31,19 @@ Tools: Powerpoint and Power BI visualization features
 - Designed an initial layout using Powerpoint.
 - Built an interactive dashboard with filters for Region and BranchID.
 - Used bar charts, a scatter plot (Revenue vs. Staff_Count), and cards (key metrics) to highlight trends.
+
+### Insights
+- BR012 stands out as the most profitable branch, leading the pack.
+- The South Region drives the highest profits, far ahead of others.
+- BR013 shows each employee works smarter, earning the most per person.
+- BR006 spends the most to operate, but it’s not paying off.
+- A few branches like BR012 shine with strong profits, while others, including some with losses, struggle at the bottom.
+- South leads in profits, while North and East fall behind noticeably.
+- Branches with fewer staff, like BR013, often do better per person, showing efficiency matters more than size.
+- BR006’s high spending doesn’t match its results, hinting at trouble ahead.
+
+### Recommendations
+- Invest in BR013: This branch proves efficiency works with its top performance per employee. Spread this approach to lift others.
+- Support BR012: As a profit leader, it deserves more resources to keep growing.
+- Reassess BR006: Its high costs outweigh the benefits. Consider changes or closure unless it improves.
+- Act on BR017 and BR001: Both lose money and cost too much. Closing or fixing them urgently will cut losses.
