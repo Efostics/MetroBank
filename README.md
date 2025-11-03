@@ -1,6 +1,9 @@
 # METROBANK BRANCH PERFORMAMCE ANALYSIS
 
-<img width="893" height="498" alt="Screenshot 2025-09-22 094226" src="https://github.com/user-attachments/assets/2ee77e1a-47fa-4c76-882c-c0bb6f577504" />
+<a href="https://app.powerbi.com/groups/me/reports/216f639f-5bcc-4e7e-a772-7d8c3a57718c?experience=power-bi" target="_blank">
+  <img width="893" height="498" alt="Screenshot 2025-09-22 094226" src="https://github.com/user-attachments/assets/2ee77e1a-47fa-4c76-882c-c0bb6f577504" />
+</a>
+
 
 ### Introduction
 This project analyzes the performance and efficiency of MetroBank’s 15 branches. Understanding branch performance is key to maximizing profitability and ensuring operational success. By examining financial and operational patterns, this analysis aims to guide the Chief Operating Officer (COO) in deciding where to invest, streamline, or close branches, keeping MetroBank competitive and sustainable.
